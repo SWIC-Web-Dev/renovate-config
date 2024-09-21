@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "schedule": ["every weekend"],
+  "assignees": ["@manavm1990"],
+  "ignoreDeps": ["eslint", "prettier"]
+}

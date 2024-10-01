@@ -4,6 +4,5 @@
     "config:recommended"
   ],
   "schedule": ["every weekend"],
-  "assignees": ["@manavm1990"],
-  "ignoreDeps": ["eslint", "prettier"]
+  "assignees": ["@manavm1990"]
 }
